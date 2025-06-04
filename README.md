@@ -9,8 +9,6 @@
 > An interactive, command-line-style personal portfolio for [Kirati Rattanaporn (Win)](https://en.wikipedia.org/wiki/Draft:Kirati_Rattanaporn).  
 > Inspired by the elegant CLI aesthetic of [corsetti.dev](https://www.corsetti.dev) — reimagined with more interactivity, personality, and secrets.
 
-![screenshot of terminal interface](preview.png)
-
 ---
 
 ## 📦 About This Project
