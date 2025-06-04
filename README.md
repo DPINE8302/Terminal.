@@ -71,7 +71,7 @@ I took the idea and added more **hidden features, animated typing effects**, and
 
 ```
 ├── index.html         # All-in-one HTML with React + Tailwind
-├── preview.png          # Screenshot of the terminal interface
+├
 └── README.md            # This file!
 ```
 
