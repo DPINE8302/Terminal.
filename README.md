@@ -72,6 +72,7 @@ I took the idea and added more **hidden features, animated typing effects**, and
 ├
 └── README.md            # This file!
 ```
+https://dpine8302.github.io/Terminal./
 
 ---
 
